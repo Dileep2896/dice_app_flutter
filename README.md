@@ -17,4 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 <!-- ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-07-07 at 18 15 39](https://user-images.githubusercontent.com/55010518/124761397-6253c680-df4f-11eb-9c23-b26fc1f22643.png) -->
 
+<h2>This Is A Simple Dice App Which Shows Different Dice Top When Thouched on Screen</h2>
+
 <img src="https://user-images.githubusercontent.com/55010518/124761397-6253c680-df4f-11eb-9c23-b26fc1f22643.png" width="360" height="640">
